@@ -1,0 +1,15 @@
+{
+    "name": "normalcoder/gitee.explore.hot",
+    "description": "热门项目搜索工具",
+    "type": "project",
+    "authors": [
+        {
+            "name": "诺墨",
+            "email": "normal@normalcoder.com"
+        }
+    ],
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.2",
+        "paquettg/php-html-parser": "^2.0"
+    }
+}
